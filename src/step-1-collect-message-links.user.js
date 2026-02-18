@@ -1,8 +1,8 @@
 // ==UserScript==
-// @name         Outreach - Export email bodies (API + UI runner)
+// @name         Outreach Step 1 - Collect Message Links
 // @namespace    https://web.outreach.io/
 // @version      1.3
-// @description  Upload link CSV and export message bodies. Supports API replay mode and UI-driven auto-navigation capture mode.
+// @description  Step 1: Collect/scrape Outreach message links and export them as a CSV for Step 2 processing.
 // @match        https://web.outreach.io/*
 // @run-at       document-start
 // @grant        none
