@@ -4,7 +4,8 @@ Tampermonkey userscript for exporting sent message content from Outreach sequenc
 
 ## Included
 
-- `outreach-scraper.js` userscript
+- `src/outreach-scraper.js` userscript
+- `src/outreach-message-link-scraper.js` userscript
 
 ## Notes
 
