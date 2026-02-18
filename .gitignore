@@ -1,0 +1,10 @@
+*.log
+.DS_Store
+
+# Local exports / captures
+outreach_message_bodies*.csv
+outreach_message_links*.csv
+success_outreach_message_bodies*.csv
+
+# Local notes
+dev-tools.txt
