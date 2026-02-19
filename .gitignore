@@ -8,3 +8,6 @@ success_outreach_message_bodies*.csv
 
 # Local notes
 dev-tools.txt
+
+# Local example/scratch data directory
+data/
